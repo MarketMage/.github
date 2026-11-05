@@ -19,7 +19,7 @@
 
 ### What you can ask
 
-| | |
+| To | Just say |
 |---|---|
 | **Find something to sell** | "I'm new, help me find something to sell" |
 | **Check an idea** | "Is a heated eye mask worth selling for me?" |
