@@ -31,7 +31,7 @@ Amazon, eBay, Etsy, Walmart, Target, TikTok Shop, Shopify stores, ad libraries, 
 ### How it works
 
 - **Live data for your question.** Every answer is read fresh from the marketplaces when you ask.
-- **You see every cost first.** Claude shows what a run costs before it starts, and every run carries a spending cap.
+- **Costs come with a yes.** Anything beyond a few cents shows its estimate first and waits for your go-ahead, and every run carries a spending cap.
 - **Your data stays in your account.** Results live in your own Apify account. All you provide is your Apify sign-in.
 
 ### Install in Claude Code
@@ -41,7 +41,7 @@ Amazon, eBay, Etsy, Walmart, Target, TikTok Shop, Shopify stores, ad libraries, 
 /plugin install marketmage@marketmage
 ```
 
-Then type `/marketmage:start` for a guided first session. Plugins are available on Claude's paid plans.
+Then type `/marketmage:start` for a guided first session. Plugins work on every Claude plan, including Free.
 
 ---
 
