@@ -24,7 +24,7 @@
 | **Find something to sell** | "I'm new, help me find something to sell" |
 | **Check an idea** | "Is a heated eye mask worth selling for me?" |
 | **Watch a competitor** | "What is allbirds.com selling right now?" |
-| **Track what changes** | Prices, stock, ranks, reviews, promotions and new ads, in a weekly briefing |
+| **Track what changes** | Prices, stock, ranks, reviews, promotions and new ads, in your briefing in Claude |
 
 Amazon, eBay, Etsy, Walmart, Target, TikTok Shop, Shopify stores, ad libraries, suppliers and Google Trends, in one conversation.
 
@@ -34,14 +34,18 @@ Amazon, eBay, Etsy, Walmart, Target, TikTok Shop, Shopify stores, ad libraries, 
 - **Costs come with a yes.** Anything beyond a few cents shows its estimate first and waits for your go-ahead, and every run carries a spending cap.
 - **Your data stays in your account.** Results live in your own Apify account. All you provide is your Apify sign-in.
 
-### Install in Claude Code
+### Install
+
+**On claude.ai or in the Claude desktop app:** open **Customize → Plugins**, click **Add → Add marketplace → Add from a repository**, type `MarketMage/plugin` and click **Sync**, then open **MarketMage** and click **Add**.
+
+**In Claude Code:**
 
 ```
 /plugin marketplace add MarketMage/plugin
 /plugin install marketmage@marketmage
 ```
 
-Then type `/marketmage:start` for a guided first session. Plugins work on every Claude plan, including Free.
+Then connect your Apify account once (a free one works) and type `/marketmage:start`. MarketMage costs nothing to install and works on any Claude plan, Free included. Step by step: [marketmage.io/start](https://marketmage.io/start/).
 
 ---
 
